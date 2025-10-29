@@ -1,8 +1,7 @@
 # SmartAttend-AI-Powered-Face-Recognition-Attendance-System
 
 SmartAttend is an AI-based attendance tracking web application built using **Python**, **Flask**, and **OpenCV**.  
-It automatically detects and recognizes faces through a webcam feed to mark attendance in real time —  
-eliminating the need for manual roll calls or RFID cards.
+It automatically detects and recognizes faces through a webcam feed to mark attendance in real time, eliminating the need for manual roll calls or RFID cards.
 
 ---
 
